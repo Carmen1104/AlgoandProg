@@ -1,2 +1,2 @@
 # AlgoandProg
-# my repository for all things algoandprog this semester
+# I tried my best for the forums questions but its still wrong
